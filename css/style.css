@@ -7,7 +7,7 @@ html, body {
 }
 .wrapper {
     height: 100vh;
-    background-image: url(/img/tekstura-material-dzhinsy-cvet-xaki-kamuflyazh-den-zashhitnika-otechestva-23-fevralya-hd.jpg);
+    background-image: url(../img/tekstura-material-dzhinsy-cvet-xaki-kamuflyazh-den-zashhitnika-otechestva-23-fevralya-hd.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
